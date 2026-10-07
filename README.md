@@ -1,6 +1,6 @@
 # Keepsake
 
-A writer’s object picker: 120 objects, eight collections, relationship prompts, evolving callbacks, and independent rerolls.
+A writer’s object picker: 240 objects, eight collections, relationship prompts, evolving callbacks, and independent rerolls.
 
 This is the complete standalone app. It doesn't need npm, a build step, API keys, or a ChatGPT login.
 
